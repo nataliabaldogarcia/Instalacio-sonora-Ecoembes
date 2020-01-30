@@ -1,4 +1,4 @@
-# 1 pràctica. Anàlisis de materials
+# Pràctica 1. Anàlisis de materials
 ## Parelles
 
 ## Grup
